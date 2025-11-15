@@ -1,0 +1,127 @@
+
+1. Purpose
+
+To outline the steps for updating Average Ticket and Annual Volume in MAS (Merchant Accounting System).
+
+2. Scope
+
+а. This procedure applies to requests received by the MBOCS team from merchants in the NA region.
+b. The request must include:
+
+Merchant Number and DBA Name
+Requestor's Name and Title
+
+
+3. Definition of Terms
+Term - Acronym
+Definition
+
+Customer Service Platform (also known Salesforce) - CSP
+
+An online tool used to log/document and attach documents necessary to complete a merchant inquiry/request. Primary tool used to view, manage and record calls/emails received from the merchant and changes in the merchant accounts.
+
+Merchant Accounting System - MAS
+
+MAS is a back-end system used to search for merchant information which includes transaction, deposit, equipment and fee information.
+
+Doing Business As - DBA
+
+A company is said to be "doing business as" when the name under which they operate their business differs from its legal, registered name.
+
+
+
+Receipt of Request
+
+Representatives generally receive requests via CSP or e-mail. Requests to update multiple merchants are considered a project and are forwarded to the Project email box versus having to complete a CSP incident for each Merchant.
+
+Validate the Request
+
+To complete an Average Ticket and Annual Volume, the request must be approved by Credit and must include Merchant Number, Name.
+
+Note:
+Any Annual Volume and/or Average Ticket updates, even if stated as a typo, need to go to Credit except those due to Canada Onboarding Errors.
+
+
+
+Add/Change Average Ticket and Annual Volume
+
+1. Sign on to MAS, then go to 02 - Merchant Index File (IDX), press Enter.
+2. Go to page 3 of the IDX screen by pressing F8 thrice.
+3. Press F6 to enable edit mode.
+4. Change the Annual Deposit (AV) and Average Ticket (AT) fields
+a. Update each field with the numbers provided by the requestor (commas and/or decimals not required)
+b. Credit may use K and M abbreviations for amount
+K = $1,000; M = $1,000,000 (ie. $5k $5,000; $1.2M $1,200,000)
+c. Hit Enter twice to confirm the change
+d. Go to the Main Menu by pressing F3 twice.
+
+
+Memo account change in MAS
+
+1. Go to the Main Menu by pressing F3 twice.
+2. Press F4 to add a memo. Don't forget to key in your representative initials. Here's the syntax that you will need to type in for your memo:
+3. Once the note is complete, press Enter then type N in the Purge field, followed by another enter.
+
+Note:
+Whenever we receive a request to update DISCOVER VOLUME, MBOCS should update ANNUAL DEPOSIT in MAS page 3 by increasing or decreasing the amount based on what is being requested for Discover Volume.
+
+
+Example:
+
+1. Request is to change Discover Volume from $5,000 to $10,000
+
+a. Action - Change Annual Deposit in MAS
+From:
+
+To:
+
+2. Request is to change Discover Volume from $10,000 to $5,000
+
+a. Action Change Annual Deposit in MAS
+From:
+
+To:
+
+Note:
+If the request is to increase/decrease Discover ATS - we will just adjust the Average Ticket in MAS depending on the increase/decrease amount of the Discover.
+
+
+
+Closing of CSP incident
+1. Add memo in CSP
+2. Close CSP incident
+3. Documents/email related to the request must be uploaded
+
+
+PRODUCTIVITY TOOL Tagging
+
+
+
+
+
+SLA
+
+24hrs SLA- Request received from CAD_MBOCS-Escals@globalpay.com and
+US MBOCS-Escals@globalpay.com
+48hrs SLA- Request received from CSP CAD_MBOCS-Demographics@globalpay.com and US MBOCS-Demographics@globalpay.com
+
+Escalation Matrix
+
+GSC Escals POC 2024
+
+Information Security Control
+Follow company policies.
+Do not share or use other analysts credentials or passwords. Rules and Guidelines should be followed always.
+
+File Retention Period
+One year
+
+
+
+
+
+
+
+
+
+
